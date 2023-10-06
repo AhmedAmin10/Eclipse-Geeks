@@ -25,7 +25,7 @@ const Videos = () => {
               data-te-ripple-color="light"
             >
               <video className="w-full h-auto object-cover rounded-t-lg" controls>
-                <source src="/a.mp4" type="video/mp4" />
+                <source src="/introd.mp4" type="video/mp4" />
               </video>
             </div>
             <div className="px-6 py-5">
@@ -57,7 +57,7 @@ const Videos = () => {
               data-te-ripple-color="light"
             >
               <video className="w-full h-auto object-cover rounded-t-lg" controls>
-                <source src="/b.mp4" type="video/mp4" />
+                <source src="/ahmed1.mp4" type="video/mp4" />
               </video>
             </div>
             <div className="px-6 py-5">
