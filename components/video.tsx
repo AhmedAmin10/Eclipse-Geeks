@@ -9,7 +9,7 @@ const Videoen = () => {
             className=" w-[60%] p-1 bg-gray-950 h-[30%] max-w-full border border-gray-700 rounded-lg dark:border-gray-700"
             controls
           >
-            <source src="/intro.mp4" type="video/mp4" />
+            <source src="/c.mp4" type="video/mp4" />
           </video>
         </div>
     </div>
